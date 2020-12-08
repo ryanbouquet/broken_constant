@@ -4,3 +4,7 @@ remote_dependency: original {
   url: "git@github.com:ryanbouquet/base_proj.git"
   ref: "master"
 }
+
+constant: test {
+  value: "test_2"
+}
